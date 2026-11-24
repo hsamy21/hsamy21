@@ -11,8 +11,8 @@ RAG-based travel recommender for small cities in Korea. Capstone project, team o
 - Repos: [Backend](https://github.com/CAPSTONEEEEE/BE) · [Frontend](https://github.com/CAPSTONEEEEE/FE) · [Docs & demo](https://github.com/CAPSTONEEEEE/NaegaGreen)
 
 ## Tech
-Python · FastAPI · LangChain · FAISS · SQLAlchemy · MySQL · Docker
-AWS: EC2, RDS (capstone deployment); ALB, Auto Scaling, CloudWatch, VPC, S3, IAM (course labs)
+- Python · FastAPI · LangChain · FAISS · SQLAlchemy · MySQL · Docker
+- AWS: EC2, RDS (capstone deployment); ALB, Auto Scaling, CloudWatch, VPC, S3, IAM (course labs)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/hsamy21/)
